@@ -1,5 +1,3 @@
-# 邱德扬测试
-
 # Apache Spark
 
 Spark is a fast and general cluster computing system for Big Data. It provides
